@@ -8,5 +8,6 @@ MOD開発だったり公開してないけどアプリ開発してる一般的�
 ## Languages Card
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Lausiv1024)
 
+## メインのプロジェクト
 **Real Elevator**
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Lausiv1024&repo=RealElevator)](https://github.com/Lausiv1024/RealElevator)
