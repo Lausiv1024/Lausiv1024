@@ -10,6 +10,4 @@ MOD開発だったり公開してないけどアプリ開発してる一般的�
 
 ## メインのプロジェクト
 
-**Real Elevator**
-
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Lausiv1024&repo=RealElevator&theme=dark)](https://github.com/Lausiv1024/RealElevator)
+### Real Elevator --制作中
