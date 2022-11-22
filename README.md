@@ -11,5 +11,4 @@ MOD開発だったり公開してないけどアプリ開発してる一般的�
 **Minecraftにリアルなエレベーターを追加します**
 
 ### UrbanAceLCDEmulator
-**エレベーターの液晶画面を再現するプロジェクトです**<br>
 ![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Lausiv1024&repo=UrbanAceLCDEmulator&theme=dark)
