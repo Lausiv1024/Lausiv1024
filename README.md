@@ -10,5 +10,5 @@ MOD開発だったりソフト開発してる一般的な高校生です。
 ### Real Elevator --制作中
 **Minecraftにリアルなエレベーターを追加します**
 
-### H-ElevatorLCDEmulator
+### H-ElevatorLCDSimulator
 [![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Lausiv1024&repo=H-ElevatorLCDSimulator&theme=dark)](https://github.com/Lausiv1024/H-ElevatorLCDSimulator)
